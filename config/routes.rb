@@ -1,3 +1,3 @@
 Rails.application.routes.draw do
-  root "put#index"
+  root "puts#index"
 end
